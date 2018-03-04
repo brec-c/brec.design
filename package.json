@@ -1,6 +1,7 @@
 {
   "name": "home",
   "version": "0.1.0",
+  "homepage": "https://brec-c.github.io/brec.design",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
